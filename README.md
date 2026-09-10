@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi,%20I'm%20Ehijearthur&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20%26%20Mobile%20App%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Hi,%20I'm%20Arthur%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Building+with+the+MERN+stack;Crafting+mobile+apps+with+Flutter;Always+learning%2C+always+shipping;Open+to+collaborations" alt="Typing SVG" />
 
@@ -85,7 +85,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ehijearthur-hub)
-[![Email](https://img.shields.io/badge/Email-6A11CB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Email](https://img.shields.io/badge/Email-6A11CB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehijearthur@gmail.com)
 
 </div>
 
