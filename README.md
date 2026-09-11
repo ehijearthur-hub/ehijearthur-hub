@@ -61,7 +61,7 @@
 
 ---
 
-### 📌 Featured Projects
+<!-- ### 📌 Featured Projects
 
 <div align="center">
 
@@ -74,7 +74,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ehijearthur-hub&repo=repo-two&theme=radical&hide_border=true" />
 </a>
 
-</div>
+</div> -->
 
 <!-- 🔁 Replace repo-one / repo-two above with your actual repo names to pin your real projects -->
 
